@@ -1,2 +1,0 @@
-# THML
-Birthday Project
